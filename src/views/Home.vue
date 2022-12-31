@@ -71,7 +71,7 @@ export default {
       loading: false,
       currentPage: 1,
       totalPages:0,
-      limit: 4,
+      limit: 5,
       rangePointMinimal: '10000',
       rangePointMax: '500000',
       selected: [],
